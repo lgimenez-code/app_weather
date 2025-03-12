@@ -1,24 +1,9 @@
-# app_weather
+# Weather App
 
-## Project setup
-```
-npm install
-```
+App to check the weather in a city.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Demo: https://app-weather-indol.vercel.app/
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![image](https://github.com/user-attachments/assets/6cf55d35-3952-4245-bd2c-981ca30d02b8)
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
